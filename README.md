@@ -4,6 +4,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Daniel-Html" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png">
+  <img align="center" alt="Daniel-Html" height="30" width="40" src="https://icones.pro/wp-content/uploads/2022/08/css3.png">
 </div>
 
 <!---
