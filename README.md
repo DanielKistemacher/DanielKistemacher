@@ -8,7 +8,7 @@
 </div>
 <br>
 - Minhas redes:
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="./img/insta.png">
+  <img align="center" alt="Daniel-linkedin" height="30" width="40" src="./img/linkedin.png">
 <!---
 DanielKistemacher/DanielKistemacher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
