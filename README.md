@@ -1,5 +1,7 @@
 ## Olá, sou o Daniel Kistemacher 😄
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+<br>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Daniel-Css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
