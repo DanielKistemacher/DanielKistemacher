@@ -1,13 +1,12 @@
 ## Olá, sou o Daniel Kistemacher 😄
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-
+<br>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Daniel-Css" height="30" width="40" src="./img/css3.png">
   <img align="center" alt="Daniel-Html" height="30" width="40" src="./img/html5.png">
 </div>
-<br>
-<br>
 <br>
 <br>
 <div>
