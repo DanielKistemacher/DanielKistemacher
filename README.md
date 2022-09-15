@@ -1,8 +1,8 @@
 ## Olá, sou o Daniel Kistemacher 😄
 
-<h2>
+<p>
   - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-</h2>
+</p>
 
 <br>
 <br>
